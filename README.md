@@ -1,10 +1,10 @@
-#Vanilla JS Resonsive Image Grid
+# Vanilla JS Resonsive Image Grid
 
 
-##W3 Redo
+## W3 Redo
 
 
-###Some Other text
+### Some Other text
 
 **Bold**
 
