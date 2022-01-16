@@ -4,7 +4,7 @@
 ## W3 Redo
 
 
-### Some Other text
+### Third Level Heading
 
 **Bold**
 
